@@ -1,0 +1,26 @@
+{
+  "name": "meow",
+  "version": "1.0.0",
+  "description": "A typescript framework for MiniApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuxinzhe/meow.git"
+  },
+  "keywords": [],
+  "author": "wuxinzhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuxinzhe/meow/issues"
+  },
+  "homepage": "https://github.com/wuxinzhe/meow#readme",
+  "dependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
